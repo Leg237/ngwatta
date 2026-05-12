@@ -5,7 +5,7 @@ package.domain = org.example
 source.dir =.
 source.include_exts = py,png,jpg,kv,atlas,wav
 version = 1.0
-requirements = python3,kivy,kivymd,numpy,cython
+requirements = python3,kivy,kivymd,cython
 orientation = portrait
 fullscreen = 0
 
